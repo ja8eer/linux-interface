@@ -5,8 +5,5 @@
 
 $cd user_and_group_info
 
-![screenshot](img/screenshot1.png)
-
 $./user_and_group
 
-![screenshot20](img/screenshot2.png)
